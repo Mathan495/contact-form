@@ -152,7 +152,7 @@ body{
         width: 260px;
     }
     #social{
-        margin-top: 50px;
+        margin-top: px;
     }
 }
 @media all and (max-width:495px){
@@ -164,4 +164,5 @@ body{
     }
 
 }
+
 
